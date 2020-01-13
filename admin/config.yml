@@ -2,7 +2,7 @@ backend:
   name: github
   repo: dendyjoom/netlify
   auth_type: implicit
-  app_id: 7a00f88cf10b4fdabced9dab781ca32cfbd5da16ad94811b038a7cc23fdbaf2e
+  app_id: 8e07cab818fa60a10783
 
 media_folder: "assets/images/uploads"
 public_folder: "/images/uploads"
