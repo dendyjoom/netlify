@@ -1,6 +1,6 @@
 backend:
-  name: gitlab
-  repo: dendyjoom/littlenews24
+  name: github
+  repo: dendyjoom/netlify
   auth_type: implicit
   app_id: 7a00f88cf10b4fdabced9dab781ca32cfbd5da16ad94811b038a7cc23fdbaf2e
 
